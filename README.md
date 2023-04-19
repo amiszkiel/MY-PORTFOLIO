@@ -8,22 +8,25 @@ Aspiring junior software tester portfolio
 - [Tools](#tools)
 - [Courses](#courses)
 - [Examples of my work](#examples-of-my-work)
-  * [Test cases and work in TestRail](#test-cases-and-work-in-testrail)
+  * [Test cases](#test-cases)
   * [Bug reports and work in Jira](#bug-reports-and-work-in-jira)
-  * [Mindmaps and diagrams](#mindmaps-and-diagrams)
-  * [Scripts for PICT (pairwise testing)](#scripts-for-pict-pairwise-testing)
+  * [(pairwise testing)](#scripts-for-pict-pairwise-testing)
 - [Books I have read](#books-i-have-read)
 
 ## About me
 
-I am a positive-thinking person who possesses two sides of power. On one hand, I am organised, structured and attentive to detail due to my background as a research chemist. And on the other, due to my personality, I love to communicate with people and solve problems.
+I am an aspiring junior software tester, who is always striving to improve my skills and abilities. I used to work in quality assurance for manufacturing companies, but now I desire to explore new quality assurance opportunities. My experience has made me an insightful person who pays attention to details. I am also a person who loves working with people. etting common goals together with the team is very satisfying for me, and achieving them even more which makes me a communicative person.I quickly adapt to changes, in case of "fires" I put out them as soon as possible.
 
-I got my Master's Degree from the University of Eastern Finland and have been a PhD fellow at the University of Jyväskylä for 3 years. My research field was computational physical chemistry, which involved modelling of chemical reactions through massively-parallel computing.
+I enjoy learning and expanding my knowledge, and find joy in doing so. I am excited to pursue new experiences and broaden my horizons, so I am keen on developing myself in test automation. Through my training, I am familiar with areas such as exploratory testing, testing websites and mobile applications, REST API testing, creating test cases and reports, and reporting defects. I'm still learning tools such as SQL, Postman. So far I have also met Chrome DevTools, Jira, Confluence, GIT, and GitHub. 
 
-Now, I wish to exploit my research and analytical skills in software testing. Currently, I am intensively studying techniques and tools by attending online courses and testing web applications created for learning purposes.
+Gaining hands-on experience by applying my acquired knowledge to test an operational product would be a critical milestone in achieving my current career goal of becoming a junior software tester. This opportunity would bring me great joy and allow me to further develop my skills in the field.
 
-I would be extremely happy to apply obtained knowledge to testing an operational product and gain hands-on experience. It is a crucial step in my current career goal — to become a mid-level software tester in 2 years.
+You can also visit my profile on LinkedIn: 
+<img src="https://www.vecteezy.com/png/18930587-linkedin-logo-png-linkedin-icon-transparent-png">Linkedin logo png, Linkedin icon transparent png PNGs by Vecteezy
+<p><b><i><a href="www.linkedin.com/in/aleksandra-miszkiel/">www.linkedin.com/in/aleksandra-miszkiel/</a></i></b></p>
 
+
+//
 ## CV
 You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/11FJNgtF8fAgEQIFJ0aA9S9O8_6_7Jgp-/view?usp=sharing).
 
