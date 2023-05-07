@@ -31,24 +31,29 @@ You can also visit my profile on LinkedIn:
 # TOOLS #
 
 <ul>
-<li> Jira
-* know how to create bug reports
-* able to create projects and track their progress
-* capable of creating workflows 
-
+ <li> Jira </li>
+ <ul>
+<li> know how to create bug reports
+<li> able to create projects and track their progress
+<li> capable of creating workflows 
+ </ul>
 <li> Confluence
 * in a position to create and using technical documentation 
 
-<li> DevTools
-* knowledge of using tabs: elemennts, network, application, lighthouse
-* understanding how to use Toogle device toolbar and inspects elements
-* accessability testing with using toolbar 
-
-<li> Browserstack
-* testing mobile web pages in the browsers on different devices
-
+ <li> DevTools </li>
+ <ul>
+<li> knowledge of using tabs: elemennts, network, application, lighthouse
+<li> understanding how to use Toogle device toolbar and inspects elements
+<li> accessability testing with using toolbar 
+ </ul>
+ 
+ <li> Browserstack </li>
+ <ul>
+ <li> testing mobile web pages in the browsers on different devices
+ </ul> 
+ 
  <li> JavaScript </li>
-* knowledge of: 
+ knowledge of: 
  <ul>
   <li> data types
   <li> basics functions
