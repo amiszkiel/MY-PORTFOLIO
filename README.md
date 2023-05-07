@@ -1,7 +1,7 @@
 # ALEKSANDRA'S PORTFOLIO
-Aspiring junior software tester portfolio 
+<i> Aspiring junior software tester portfolio </i>
 
-# Portfolio
+# Contents: 
 - [About me](#about-me)
 - [Skills](#skills)
 - [Tools](#tools)
