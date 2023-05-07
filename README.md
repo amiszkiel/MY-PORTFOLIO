@@ -14,14 +14,16 @@
 
 ## About me
 
-I'm Aleksandra and I'm passionate about quality assurance. 💗
-Ever since I started my first engineering studies, I wanted to become a quality specialist. I managed to achieve it, but I have always been drawn to the IT industry ... that's why I started my adventure with testing. First I began my journey with webinars, newsletters, books, and then I studied Software Testing and started practicing testing. It is really fascinating for me how important is the quality! For not only in the manufactured products, but also the software. I got so into testing that in the future I would like to develop my skills in test automation
+<p>I'm Aleksandra and I'm passionate about quality assurance. </p>
+<p align="justify"> 
+ Ever since I started my first engineering studies, I wanted to become a quality specialist. I managed to achieve it, but I have always been drawn to the IT industry ... that's why I started my adventure with testing. First I began my journey with webinars, newsletters, books, and then I studied Software Testing and started practicing testing. It is really fascinating for me how important is the quality! For not only in the manufactured products, but also the software. I got so into testing that in the future I would like to develop my skills in test automation
 
-So... I am an aspiring junior software tester, who is always striving to improve my skills and abilities. My experience has made me an insightful person who pays attention to details. I am also a person who loves working with people. Etting common goals together with the team is very satisfying for me, and achieving them even more which makes me a communicative person.I quickly adapt to changes, in case of "fires" I put out them as soon as possible.
+ So... I am an aspiring junior software tester, who is always striving to improve my skills and abilities. My experience has made me an insightful person who pays attention to details. I am also a person who loves working with people. Etting common goals together with the team is very satisfying for me, and achieving them even more which makes me a communicative person.I quickly adapt to changes, in case of "fires" I put out them as soon as possible.
 
 I enjoy learning and expanding my knowledge, and find joy in doing so. I am excited to pursue new experiences and broaden my horizons, so I am keen on developing myself in test automation. Through my training, I am familiar with areas such as exploratory testing, testing websites and mobile applications, REST API testing, creating test cases and reports, and reporting defects. I'm still learning tools such as SQL, Postman, Cypress and programming language- JavaScript... and so on, becuase continuous improvement means continuous learning and self-development. So far I have also met Chrome DevTools, Jira, Confluence, GIT, and GitHub. 
 
 Gaining hands-on experience by applying my acquired knowledge to test an operational product would be a critical milestone in achieving my current career goal of becoming a junior software tester. This opportunity would bring me great joy and allow me to further develop my skills in the field.
+</p>
 
 You can also visit my profile on LinkedIn: 
 <p><b><i><a href="www.linkedin.com/in/aleksandra-miszkiel/">www.linkedin.com/in/aleksandra-miszkiel/</a></i></b></p>
@@ -206,7 +208,6 @@ You can also visit my profile on LinkedIn:
 ## EXAMPLES OF MY WORK
 
 <ul>
-
   <li><a href="https://github.com/amiszkiel/BUG_REPORTS.git">BUG REPORTS</a>
   <li><a href="https://github.com/amiszkiel/TEST-CASES">TEST CASES</a>
   <li><a href="https://github.com/amiszkiel/SQL.git">SQL</a>
