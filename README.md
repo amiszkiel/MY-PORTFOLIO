@@ -213,7 +213,7 @@ You can also visit my profile on LinkedIn:
   <li><a href="https://github.com/amiszkiel/bmi_calculator.git">JAVASCRIPT <a href="https://amiszkiel.github.io/bmi_calculator/">(my app lives here &#127760;)</a></a>
 </ul>
 
-### BOOKS BLOGS PODCASTS 
+### Books & blogs & podcasts
 
 <ul> 
 Books:
