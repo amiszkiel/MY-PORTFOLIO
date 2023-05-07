@@ -1,4 +1,6 @@
-# ALEKSANDRA'S PORTFOLIO
+
+![ALEKSANDRA'S PORTFOLIO github copy](https://user-images.githubusercontent.com/117541170/236678836-4379de48-86c9-4bd6-8293-838d83d5bdbf.jpg)
+
 ## Contents: 
 [🔸About me](#about-me)
 
