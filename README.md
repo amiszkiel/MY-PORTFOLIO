@@ -3,7 +3,6 @@
 
 # Contents: 
 - [About me](#about-me)
-- [Skills](#skills)
 - [Tools](#tools)
 - [Tech skills](#tech-skills)
 - [Soft skills](#soft-skills)
@@ -216,7 +215,8 @@ You can also visit my profile on LinkedIn:
   <li><a href="https://github.com/amiszkiel/bmi_calculator.git">JAVASCRIPT <a href="https://amiszkiel.github.io/bmi_calculator/">(my app lives here &#127760;)</a></a>
 </ul>
 
-## Books, blogs, podcasts:
+## Books, blogs, podcasts
+
 <ul> 
 Books:
   <ul>
