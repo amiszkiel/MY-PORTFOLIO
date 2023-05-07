@@ -55,8 +55,7 @@ You can also visit my profile on LinkedIn:
  <li> testing mobile web pages in the browsers on different devices
  </ul> 
  <p></p>
- <li> JavaScript </li>
- knowledge of: 
+ <li> JavaScript </li> 
  <ul>
   <li> data types
   <li> basics functions
@@ -71,23 +70,58 @@ You can also visit my profile on LinkedIn:
   <li> objects
  </ul>
  <p></p>
-<li> CSS
-
+ <li> HTML </li>
+ <ul>
+<li> basics commands
+ </ul>
  <p></p>
-<li> HTML
+ <li> CSS </li>
+ <ul>
+  <li> basics commands
+  <li> selectors
+  <li> classes
+ </ul>
  
  <p></p>
 <li> Postman
+ <ul>
+  <li> requests (GET, POST, PATCH, DELETE)
+  <li> query params
+  <li> path variables
+ </ul>
  
  <p></p>
 <li> Git and GitHub
+ <ul> 
+  <li> using git in console
+ </ul>
  
  <p></p>
-<li> PostgreSQL
+<li> SQL (POSTGRESQL, XAMPP)
+ <ul> 
+  <li> SELECT instruction
+  <li> WHERE clause
+  <li> AND, OR operators
+  <li> IS NULL operator
+  <li> TOP, LIMIT clause
+  <li> MIN, MAX functions
+  <li> COUNT, AVG, SUM functions
+  <li> LIKE, BETWEEN operators
+  <li> INSERT INTO, UPDATE, DELETE instructions
+  <li> GROUP BY, HAVING clauses
+  <li> JOIN, UNION clauses
+  <li> CREATE, BACKUP, DROP DATABASE
+ </ul>
  
  <p></p>
-<li> Ms Excel
- 
+ <li> Ms Excel </li> 
+ <ul> 
+  <li> pivot charts 
+  <li> pivot tables
+  <li> vertical lookup
+  <li> macro recording
+  <li> basics of Power BI
+ </ul>
  <p></p>
 </ul>
 
