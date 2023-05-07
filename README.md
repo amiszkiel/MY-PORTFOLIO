@@ -9,7 +9,7 @@
 - [Education](#education)
 - [Courses](#courses)
 - [Examples of my work](#examples-of-my-work)
-- [Books, blogs and podcasts](# What-i-read-and-listen)
+- [Books, blogs and podcasts](#what-i-read-and-listen)
 - [My Facebook groups](#you-can-also-find-me-on-facebook-groups)
 
 ## About me
