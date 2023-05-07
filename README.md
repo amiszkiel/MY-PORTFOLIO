@@ -227,9 +227,9 @@ You can also visit my profile on LinkedIn:
 <ul> 
 Books:
   <ul>
-  [ ] Radosław Smilgin - "Zawód tester" - during reading
-  [x] Adam Roman, Lucjan Stapp - "Certyfikowany tester ISTQB"
-  [x] Krzysztof Jadczyk - "Pasja testowania"
+  <li> Radosław Smilgin - "Zawód tester" - during reading
+  <li> Adam Roman, Lucjan Stapp - "Certyfikowany tester ISTQB" 
+  <li> Krzysztof Jadczyk - "Pasja testowania"
   </ul>
   </ul>
 <ul> 
