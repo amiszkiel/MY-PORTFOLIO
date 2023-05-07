@@ -49,6 +49,7 @@ You can also visit my profile on LinkedIn:
 
  <li> JavaScript </li>
 * knowledge of: 
+ <ul>
   ** data types
   ** basics functions
   ** consts and variables
@@ -60,7 +61,7 @@ You can also visit my profile on LinkedIn:
   ** document object 
   ** arrays
   ** objects
-  
+ </ul>
 <li> CSS
 
 <li> HTML
