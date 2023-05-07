@@ -3,15 +3,18 @@ Aspiring junior software tester portfolio
 
 # Portfolio
 - [About me](#about-me)
-- [CV](#cv)
 - [Skills](#skills)
 - [Tools](#tools)
+- [Tech skills](#tech-skills)
+- [Soft skills](#soft-skills)
+- [Education](#education)
 - [Courses](#courses)
 - [Examples of my work](#examples-of-my-work)
   * [Test cases](#test-cases)
-  * [Bug reports and work in Jira](#bug-reports-and-work-in-jira)
-  * [(pairwise testing)](#scripts-for-pict-pairwise-testing)
+  * [Bug reports]
+  * [(pairwise testing)]
 - [Books I have read](#books-i-have-read)
+- 
 
 ## About me
 
@@ -113,6 +116,13 @@ You can also visit my profile on LinkedIn:
   <li> CREATE, BACKUP, DROP DATABASE
  </ul>
  
+  <p></p>
+ <li> Visual Studio Code </li> 
+ <ul> 
+ <li> ability to use the program to coding
+ <li> knowledge of using its extensions
+ </ul>
+ 
  <p></p>
  <li> Ms Excel </li> 
  <ul> 
@@ -148,6 +158,35 @@ You can also visit my profile on LinkedIn:
 
 
 //
+
+## EDUCATION
+
+<ul> 
+ <li> [10. 2022 - present - Białystok University of Technology - Software Tester - postgraduate studies] </li> 
+ Study programme:
+  <ul> 
+   <li> Introduction to software and ICT testing - 16 hours
+   <li> WWW standards and the basics of network traffic - 16 hours </li> 
+   Using tools: HTML, CSS, POSTMAN
+   <li> Tester's basic development tools - 24 hours</li>
+   Using tools: Chrome DevTools, PowerShell, Windows terminal, GIT, GitHub
+   <li> Manual testing - 22 hours</li>
+   Using tools: JIRA, DevTools, Wave - browser plug in
+   <li> Introduction to programming in JavaScript - 37 hours </li>
+   Using tools: Visual Studio Code
+   <li> Automated testing - Introduction - 36 hours </li> 
+   Using tools: Selenium IDE, Cypress
+   <li> Agile and Scrum - Methodology of agile work in a development team - 20 hours </li>
+   Various workshops- using Kanban boards, WIP limits
+   <li> Testing Mobile Applications - 16 hours </li> 
+   Using tools: Browserstack, TalkBack
+   <li> Basics of SQL in the work of an application tester - 23 hours </li> 
+   Using tools: PostrgreSQL
+ </ul> 
+ 
+    
+
+
 ## Courses
 
 __Robot Framework Test Automation, Levels 1-4__  
