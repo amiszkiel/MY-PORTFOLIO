@@ -47,7 +47,7 @@ You can also visit my profile on LinkedIn:
 <li> Browserstack
 * testing mobile web pages in the browsers on different devices
 
-<li> JavaScript
+ <li> JavaScript </li>
 * knowledge of: 
   ** data types
   ** basics functions
