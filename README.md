@@ -2,23 +2,23 @@
 ![ALEKSANDRA'S PORTFOLIO github cut](https://user-images.githubusercontent.com/117541170/236678923-4faeec0d-71d8-4208-a2e1-5914d2ccc34a.jpg)
 
 ## Contents: 
-[🔸About me](#about-me)
+[⚪ About me](#about-me)
 
-[🔸Tools](#tools)
+[⚪ Tools](#tools)
 
-[🔸Tech skills](#tech-skills)
+[⚪ Tech skills](#tech-skills)
 
-[🔸Soft skills](#soft-skills)
+[⚪ Soft skills](#soft-skills)
 
-[🔸Education](#education)
+[⚪ Education](#education)
 
-[🔸Courses](#courses)
+[⚪ Courses](#courses)
 
-[🔸Examples of my work](#examples-of-my-work)
+[⚪ Examples of my work](#examples-of-my-work)
 
-[🔸Books, blogs and podcasts](#what-i-read-and-listen)
+[⚪ Books, blogs and podcasts](#what-i-read-and-listen)
 
-[🔸My Facebook groups](#you-can-also-find-me-on-facebook-groups)
+[⚪ My Facebook groups](#you-can-also-find-me-on-facebook-groups)
 
 ## About me
 
