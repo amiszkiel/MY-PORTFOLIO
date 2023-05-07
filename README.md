@@ -10,12 +10,7 @@
 - [Education](#education)
 - [Courses](#courses)
 - [Examples of my work](#examples-of-my-work)
-  * [Test cases](#test-cases)
-  * [Bug reports](#bug-reports)
-  * [Sql](#sql)
-  * [JavaScript](#java-script)
-- [Books I have read](#books-i-have-read)
-- 
+- [Books, blogs, podcasts](#Books, blogs, podcasts)
 
 ## About me
 
