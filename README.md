@@ -1,7 +1,7 @@
 # ALEKSANDRA'S PORTFOLIO
 <i> Aspiring junior software tester portfolio </i>
 
-# Contents: 
+## Contents: 
 - [About me](#about-me)
 - [Tools](#tools)
 - [Tech skills](#tech-skills)
@@ -27,7 +27,7 @@ You can also visit my profile on LinkedIn:
 <p><b><i><a href="www.linkedin.com/in/aleksandra-miszkiel/">www.linkedin.com/in/aleksandra-miszkiel/</a></i></b></p>
 
 
-# TOOLS #
+## TOOLS 
 
 <ul>
  <li> Jira </li>
@@ -131,7 +131,7 @@ You can also visit my profile on LinkedIn:
  <p></p>
 </ul>
 
-# TECH SKILLS #
+## TECH SKILLS 
 
 <ul>
 <li> Creating test cases
@@ -143,7 +143,7 @@ You can also visit my profile on LinkedIn:
 <li> Familiar with ISTQB
 </ul>
 
-# SOFT SKILLS #
+## SOFT SKILLS 
 <ul> 
 <li> Teamwork
 <li> Problem solving
@@ -213,7 +213,7 @@ You can also visit my profile on LinkedIn:
   <li><a href="https://github.com/amiszkiel/bmi_calculator.git">JAVASCRIPT <a href="https://amiszkiel.github.io/bmi_calculator/">(my app lives here &#127760;)</a></a>
 </ul>
 
-## BOOKS BLOGS PODCASTS 
+### BOOKS BLOGS PODCASTS 
 
 <ul> 
 Books:
