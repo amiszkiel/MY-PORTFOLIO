@@ -33,7 +33,7 @@ I enjoy learning and expanding my knowledge, and find joy in doing so. I am exci
 Gaining hands-on experience by applying my acquired knowledge to test an operational product would be a critical milestone in achieving my current career goal of becoming a junior software tester. This opportunity would bring me great joy and allow me to further develop my skills in the field.
 </p>
 
-You can also visit my profile on LinkedIn: 
+If you would like to fill your knowledge about me you can also visit my profile on LinkedIn: 
 <p><b><i><a href="www.linkedin.com/in/aleksandra-miszkiel/">www.linkedin.com/in/aleksandra-miszkiel/</a></i></b></p>
 
 
