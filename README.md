@@ -9,8 +9,8 @@
 - [Education](#education)
 - [Courses](#courses)
 - [Examples of my work](#examples-of-my-work)
-- [Books, blogs, podcasts](#books-blogs-podcasts)
-- [Facebook groups](#you-can-also-find-me-on-facebook-groups)
+- [Books, blogs and podcasts](# What-i-read-and-listen)
+- [My Facebook groups](#you-can-also-find-me-on-facebook-groups)
 
 ## About me
 
@@ -213,7 +213,7 @@ You can also visit my profile on LinkedIn:
   <li><a href="https://github.com/amiszkiel/bmi_calculator.git">JAVASCRIPT <a href="https://amiszkiel.github.io/bmi_calculator/">(my app lives here &#127760;)</a></a>
 </ul>
 
-### Books & blogs & podcasts
+### What i read and listen
 
 <ul> 
 Books:
