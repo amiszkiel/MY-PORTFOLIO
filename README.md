@@ -1,14 +1,22 @@
 # ALEKSANDRA'S PORTFOLIO
 ## Contents: 
-- [About me](#about-me)
-- [Tools](#tools)
-- [Tech skills](#tech-skills)
-- [Soft skills](#soft-skills)
-- [Education](#education)
-- [Courses](#courses)
-- [Examples of my work](#examples-of-my-work)
-- [Books, blogs and podcasts](#what-i-read-and-listen)
-- [My Facebook groups](#you-can-also-find-me-on-facebook-groups)
+[🔸About me](#about-me)
+
+[🔸Tools](#tools)
+
+[🔸Tech skills](#tech-skills)
+
+[🔸Soft skills](#soft-skills)
+
+[🔸Education](#education)
+
+[🔸Courses](#courses)
+
+[🔸Examples of my work](#examples-of-my-work)
+
+[🔸Books, blogs and podcasts](#what-i-read-and-listen)
+
+[🔸My Facebook groups](#you-can-also-find-me-on-facebook-groups)
 
 ## About me
 
