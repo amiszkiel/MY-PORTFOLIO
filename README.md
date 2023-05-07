@@ -37,9 +37,11 @@ You can also visit my profile on LinkedIn:
 <li> able to create projects and track their progress
 <li> capable of creating workflows 
  </ul>
-<li> Confluence
-* in a position to create and using technical documentation 
-
+ <li> Confluence </li>
+ <ul>
+ <li> in a position to create and using technical documentation 
+ </ul> 
+ 
  <li> DevTools </li>
  <ul>
 <li> knowledge of using tabs: elemennts, network, application, lighthouse
