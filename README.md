@@ -37,23 +37,24 @@ You can also visit my profile on LinkedIn:
 <li> able to create projects and track their progress
 <li> capable of creating workflows 
  </ul>
+ <p></p>
  <li> Confluence </li>
  <ul>
  <li> in a position to create and using technical documentation 
  </ul> 
- 
+ <p></p>
  <li> DevTools </li>
  <ul>
 <li> knowledge of using tabs: elemennts, network, application, lighthouse
 <li> understanding how to use Toogle device toolbar and inspects elements
 <li> accessability testing with using toolbar 
  </ul>
- 
+ <p></p>
  <li> Browserstack </li>
  <ul>
  <li> testing mobile web pages in the browsers on different devices
  </ul> 
- 
+ <p></p>
  <li> JavaScript </li>
  knowledge of: 
  <ul>
@@ -69,13 +70,25 @@ You can also visit my profile on LinkedIn:
   <li> arrays
   <li> objects
  </ul>
+ <p></p>
 <li> CSS
 
+ <p></p>
 <li> HTML
+ 
+ <p></p>
 <li> Postman
+ 
+ <p></p>
 <li> Git and GitHub
+ 
+ <p></p>
 <li> PostgreSQL
+ 
+ <p></p>
 <li> Ms Excel
+ 
+ <p></p>
 </ul>
 
 # TECH SKILLS #
