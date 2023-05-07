@@ -18,7 +18,7 @@
 
 [⚪ Books, blogs and podcasts](#what-i-read-and-listen)
 
-[⚪ My Facebook groups](#you-can-also-find-me-on-facebook-groups)
+[⚪ Facebook groups I belong to](#you-can-also-find-me-on-facebook-groups)
 
 ## About me
 
