@@ -162,26 +162,36 @@ You can also visit my profile on LinkedIn:
 ## EDUCATION
 
 <ul> 
- <li> [10. 2022 - present - Białystok University of Technology - Software Tester - postgraduate studies] </li> 
+ [10. 2022 - present - Białystok University of Technology - Software Tester - postgraduate studies] </li> 
+ <p></p>
  Study programme:
   <ul> 
    <li> Introduction to software and ICT testing - 16 hours
+    <p></p>
    <li> WWW standards and the basics of network traffic - 16 hours </li> 
    Using tools: HTML, CSS, POSTMAN
+ <p></p>
    <li> Tester's basic development tools - 24 hours</li>
    Using tools: Chrome DevTools, PowerShell, Windows terminal, GIT, GitHub
+ <p></p>
    <li> Manual testing - 22 hours</li>
-   Using tools: JIRA, DevTools, Wave - browser plug in
+   Using tools: JIRA, DevTools, Wave - browser plug
+ <p></p>
    <li> Introduction to programming in JavaScript - 37 hours </li>
    Using tools: Visual Studio Code
+ <p></p>
    <li> Automated testing - Introduction - 36 hours </li> 
    Using tools: Selenium IDE, Cypress
+ <p></p>
    <li> Agile and Scrum - Methodology of agile work in a development team - 20 hours </li>
    Various workshops- using Kanban boards, WIP limits
+ <p></p>
    <li> Testing Mobile Applications - 16 hours </li> 
    Using tools: Browserstack, TalkBack
+ <p></p>
    <li> Basics of SQL in the work of an application tester - 23 hours </li> 
    Using tools: PostrgreSQL
+ <p></p>
  </ul> 
  
     
