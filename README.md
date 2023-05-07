@@ -50,17 +50,17 @@ You can also visit my profile on LinkedIn:
  <li> JavaScript </li>
 * knowledge of: 
  <ul>
-  ** data types
-  ** basics functions
-  ** consts and variables
-  ** variable type conversions
-  ** operators (arithmetic, logical, assignment)
-  ** "if" and "while" instructions 
-  ** "for" loops
-  ** basics events
-  ** document object 
-  ** arrays
-  ** objects
+  <li> data types
+  <li> basics functions
+  <li> consts and variables
+  <li> variable type conversions
+  <li> operators (arithmetic, logical, assignment)
+  <li> "if" and "while" instructions 
+  <li> "for" loops
+  <li> basics events
+  <li> document object 
+  <li> arrays
+  <li> objects
  </ul>
 <li> CSS
 
