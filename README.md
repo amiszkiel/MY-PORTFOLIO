@@ -9,7 +9,8 @@
 - [Education](#education)
 - [Courses](#courses)
 - [Examples of my work](#examples-of-my-work)
-- [Books, blogs, podcasts](#Books, blogs, podcasts)
+- [Books, blogs, podcasts](#books-blogs-podcasts)
+- [Facebook groups](#you-can-also-find-me-on-facebook-groups)
 
 ## About me
 
@@ -151,9 +152,6 @@ You can also visit my profile on LinkedIn:
 <li> Flexibility
 </ul>
 
-
-//
-
 ## EDUCATION
 
 <ul> 
@@ -192,7 +190,7 @@ You can also visit my profile on LinkedIn:
 <b>[10.2016 - 09.2021 - Białystok University of Technology - Management and production engineering- engineering and master's degree studies] </b>
  </ul>
     
-## Courses
+## COURSES
 
 <ul>
  <li> Udemy - Postman: The Complete Guide | REST API Testing - during the course </li>
@@ -205,7 +203,7 @@ You can also visit my profile on LinkedIn:
 <li> Statistic Quality Control AQL
 </ul>
 
-## Examples of my work
+## EXAMPLES OF MY WORK
 
 <ul>
 
@@ -215,7 +213,7 @@ You can also visit my profile on LinkedIn:
   <li><a href="https://github.com/amiszkiel/bmi_calculator.git">JAVASCRIPT <a href="https://amiszkiel.github.io/bmi_calculator/">(my app lives here &#127760;)</a></a>
 </ul>
 
-## Books, blogs, podcasts
+## BOOKS BLOGS PODCASTS 
 
 <ul> 
 Books:
@@ -239,7 +237,7 @@ Podcasts:
 </ul>
 </ul>  
   
-# You can also find me on Facebook Groups: 
+# You can also find me on Facebook Groups
 * Tester oprogramowania - wsparcie na starcie
 * Testowanie oprogramowania
 * Testuj, Dziewczyno!
