@@ -11,8 +11,9 @@
 - [Courses](#courses)
 - [Examples of my work](#examples-of-my-work)
   * [Test cases](#test-cases)
-  * [Bug reports]
-  * [(pairwise testing)]
+  * [Bug reports](#bug-reports)
+  * [Sql](#sql)
+  * [JavaScript](#java-script)
 - [Books I have read](#books-i-have-read)
 - 
 
@@ -213,9 +214,10 @@ You can also visit my profile on LinkedIn:
 ## Examples of my work
 
 <ul>
-  <li><a href="https://github.com/amiszkiel/SQL.git">SQL</a>
+
   <li><a href="https://github.com/amiszkiel/BUG_REPORTS.git">BUG REPORTS</a>
   <li><a href="https://github.com/amiszkiel/TEST-CASES">TEST CASES</a>
+  <li><a href="https://github.com/amiszkiel/SQL.git">SQL</a>
   <li><a href="https://github.com/amiszkiel/bmi_calculator.git">JAVASCRIPT <a href="https://amiszkiel.github.io/bmi_calculator/">(my app lives here &#127760;)</a></a>
 </ul>
 
