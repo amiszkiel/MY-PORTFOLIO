@@ -15,9 +15,12 @@ Aspiring junior software tester portfolio
 
 ## About me
 
-I am an aspiring junior software tester, who is always striving to improve my skills and abilities. I used to work in quality assurance for manufacturing companies, but now I desire to explore new quality assurance opportunities. My experience has made me an insightful person who pays attention to details. I am also a person who loves working with people. etting common goals together with the team is very satisfying for me, and achieving them even more which makes me a communicative person.I quickly adapt to changes, in case of "fires" I put out them as soon as possible.
+I'm Aleksandra and I'm passionate about quality assurance. 💗
+Ever since I started my first engineering studies, I wanted to become a quality specialist. I managed to achieve it, but I have always been drawn to the IT industry ... that's why I started my adventure with testing. First I began my journey with webinars, newsletters, books, and then I studied Software Testing and started practicing testing. It is really fascinating for me how important is the quality! For not only in the manufactured products, but also the software. I got so into testing that in the future I would like to develop my skills in test automation
 
-I enjoy learning and expanding my knowledge, and find joy in doing so. I am excited to pursue new experiences and broaden my horizons, so I am keen on developing myself in test automation. Through my training, I am familiar with areas such as exploratory testing, testing websites and mobile applications, REST API testing, creating test cases and reports, and reporting defects. I'm still learning tools such as SQL, Postman. So far I have also met Chrome DevTools, Jira, Confluence, GIT, and GitHub. 
+So... I am an aspiring junior software tester, who is always striving to improve my skills and abilities. My experience has made me an insightful person who pays attention to details. I am also a person who loves working with people. Etting common goals together with the team is very satisfying for me, and achieving them even more which makes me a communicative person.I quickly adapt to changes, in case of "fires" I put out them as soon as possible.
+
+I enjoy learning and expanding my knowledge, and find joy in doing so. I am excited to pursue new experiences and broaden my horizons, so I am keen on developing myself in test automation. Through my training, I am familiar with areas such as exploratory testing, testing websites and mobile applications, REST API testing, creating test cases and reports, and reporting defects. I'm still learning tools such as SQL, Postman, Cypress and programming language- JavaScript... and so on, becuase continuous improvement means continuous learning and self-development. So far I have also met Chrome DevTools, Jira, Confluence, GIT, and GitHub. 
 
 Gaining hands-on experience by applying my acquired knowledge to test an operational product would be a critical milestone in achieving my current career goal of becoming a junior software tester. This opportunity would bring me great joy and allow me to further develop my skills in the field.
 
@@ -25,68 +28,71 @@ You can also visit my profile on LinkedIn:
 <p><b><i><a href="www.linkedin.com/in/aleksandra-miszkiel/">www.linkedin.com/in/aleksandra-miszkiel/</a></i></b></p>
 
 
+# TOOLS #
+
+<ul>
+<li> Jira
+* know how to create bug reports
+* able to create projects and track their progress
+* capable of creating workflows 
+
+<li> Confluence
+* in a position to create and using technical documentation 
+
+<li> DevTools
+* knowledge of using tabs: elemennts, network, application, lighthouse
+* understanding how to use Toogle device toolbar and inspects elements
+* accessability testing with using toolbar 
+
+<li> Browserstack
+* testing mobile web pages in the browsers on different devices
+
+<li> JavaScript
+* knowledge of: 
+  ** data types
+  ** basics functions
+  ** consts and variables
+  ** variable type conversions
+  ** operators (arithmetic, logical, assignment)
+  ** "if" and "while" instructions 
+  ** "for" loops
+  ** basics events
+  ** document object 
+  ** arrays
+  ** objects
+  
+<li> CSS
+
+<li> HTML
+<li> Postman
+<li> Git and GitHub
+<li> PostgreSQL
+<li> Ms Excel
+</ul>
+
+# TECH SKILLS #
+
+<ul>
+<li> Creating test cases
+<li> Reporting bugs
+<li> Manual and automation testing
+<li> Accessibility testing
+<li> Mobile apps testing
+<li> Knowledge of Scrum and Agile methodology
+<li> Familiar with ISTQB
+</ul>
+
+# SOFT SKILLS #
+<ul> 
+<li> Teamwork
+<li> Problem solving
+<li> Communication
+<li> Analytical thinking
+<li> Flexibility
+</ul>
+
+
 //
-## CV
-You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/11FJNgtF8fAgEQIFJ0aA9S9O8_6_7Jgp-/view?usp=sharing).
-
-## Skills
-
-You can find examples of the described skills in the [Examples of my work](#examples-of-my-work) section.
-
-__Manual testing__
-  * can perform manual functional and usability testing of web applications
-  * gained hands-on experience by testing applications created for educational purposes
-
-__Test analysis & design__
-  * familiar with functional decomposition of products, creating state transition diagrams, writing use cases
-  * can apply equivalence partitioning, boundary value analysis and methods of pairwise testing to generate test input data
-
-__API testing__
-  * know the difference between SOAP and REST APIs
-  * gained experience through manual testing of APIs created for educational purposes
-  * know how to manipulate requests and create test cases using the SoapUI tool
-
-__Exploratory testing__
-  * capable of using Whittaker’s test tours and creating cheat-lists for testing web applications
-
-__Test documentation__
-  * can create test cases and checklists and know how and in which situations to use them effectively
-  * able to prepare comprehensive bug reports and provide detailed session reports
-
-__SQL databases__
-  * can write complex requests using subqueries
-  * familiar with the use of aliases and wildcards
-  * know the difference between joins and unions and can use them in queries
-
-__Python fundamentals__
-  * can write simple functions and algorithms
-  * know when to use for and while
-  * able to comprehend easy codes
-
-## Tools
-
-__TestRail__
-  * know how to create test cases and test suits
-  * able to run created test cases
-  * know how to use dashboards and statistics
-
-__Jira__
-  * know how to create bug reports
-  * able to create projects and track their progress
-
-__SoapUI__
-
-__Browser developer tools__
-
-__VirtualBox__
-  * able to set up and operate virtual machines
-
-__Trello and Notion__
-  * know how to use Kanban boards and track project progress
-
-__Mind maps & diagrams__
-  * know how to design beautifully simple mind maps
-
 ## Courses
 
 __Robot Framework Test Automation, Levels 1-4__  
