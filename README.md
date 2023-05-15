@@ -250,5 +250,5 @@ Podcasts:
 * Tester oprogramowania - wsparcie na starcie
 * Testowanie oprogramowania
 * Testuj, Dziewczyno!
-* QuiTesterzy
-  
+* QuiTesterzy 
+  - (This is the group of testing project for well known journalist. There I have opportunity to test a new quiz app and report bugs, before the premiere)
