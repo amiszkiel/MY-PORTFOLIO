@@ -250,4 +250,5 @@ Podcasts:
 * Tester oprogramowania - wsparcie na starcie
 * Testowanie oprogramowania
 * Testuj, Dziewczyno!
+* QuiTesterzy
   
