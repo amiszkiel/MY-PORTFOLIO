@@ -18,7 +18,7 @@
 
 [⚪ Books, blogs and podcasts](#what-i-read-and-listen)
 
-[⚪ Facebook groups I belong to](#you-can-also-find-me-on-facebook-groups)
+[⚪ Facebook groups I belong to](#you-can-also-find-me-on-facebook-groups-and-events)
 
 ## About me
 
@@ -236,11 +236,11 @@ Books:
 Blogs/ newsletters:
  <ul>
  <li> testerzy.pl - (https://testerzy.pl/)
-  <li> Bartosz Kita - testowa środa (https://testowasroda.pl)
-   <li> Adam Gola - szkolenie dla QA
+ <li> Bartosz Kita - testowa środa (https://testowasroda.pl)
+ <li> Adam Gola - QA weekly
 </ul>
 </ul>
-
+ 
 <ul> 
 Podcasts: 
 <ul> 
@@ -248,9 +248,19 @@ Podcasts:
 </ul>
 </ul>  
   
-### You can also find me on Facebook Groups
+### You can also find me on Facebook Groups and events:
+
+Facebook groups:
 * Tester oprogramowania - wsparcie na starcie
 * Testowanie oprogramowania
 * Testuj, Dziewczyno!
 * QuiTesterzy 
   - (This is the group of testing project for well known journalist. There I have opportunity to test a new quiz app and report bugs, before the premiere)
+
+Attending events: 
+ <ul> 
+ <li> QAwelin
+ <li> Acai_tech night
+ <li> Śljedzimy internety
+ </ul> 
+ </ul> 
