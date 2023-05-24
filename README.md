@@ -24,7 +24,7 @@
 
 <p>I'm Aleksandra and I'm passionate about quality assurance. </p>
 <p align="justify"> 
- Ever since I started my first engineering studies, I wanted to become a quality specialist. I managed to achieve it, but I have always been drawn to the IT industry ... that's why I started my adventure with testing. First I began my journey with webinars, newsletters, books, and then I studied Software Testing and started practicing testing. It is really fascinating for me how important is the quality! For not only in the manufactured products, but also the software. I got so into testing that in the future I would like to develop my skills in test automation
+ Ever since I started my first engineering studies, I wanted to become a quality specialist. I managed to achieve it, but I have always been drawn to the IT industry ... that's why I started my adventure with testing. First I began my journey with webinars, newsletters, books, and then I studied Software Testing and started practicing testing. It is really fascinating for me how important is the quality! For not only in the manufactured products, but also the software. I got so into testing that in the future I would like to develop my skills in test automation.
 
  So... I am an aspiring junior software tester, who is always striving to improve my skills and abilities. My experience has made me an insightful person who pays attention to details. I am also a person who loves working with people. Etting common goals together with the team is very satisfying for me, and achieving them even more which makes me a communicative person.I quickly adapt to changes, in case of "fires" I put out them as soon as possible.
 
