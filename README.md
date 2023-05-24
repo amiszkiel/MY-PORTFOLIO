@@ -227,15 +227,17 @@ If you would like to fill your knowledge about me you can also visit my profile 
 <ul> 
 Books:
   <ul>
-  <li> Radosław Smilgin - "Zawód tester" - during reading
+  <li> Radosław Smilgin - "Zawód tester"
   <li> Adam Roman, Lucjan Stapp - "Certyfikowany tester ISTQB" 
   <li> Krzysztof Jadczyk - "Pasja testowania"
   </ul>
   </ul>
 <ul> 
-Blogs:
+Blogs/ newsletters:
  <ul>
  <li> testerzy.pl - (https://testerzy.pl/)
+  <li> Bartosz Kita - testowa środa (https://testowasroda.pl)
+   <li> Adam Gola - szkolenie dla QA
 </ul>
 </ul>
 
