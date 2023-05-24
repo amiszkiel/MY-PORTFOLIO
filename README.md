@@ -12,7 +12,7 @@
 
 [⚪ Education](#education)
 
-[⚪ Courses](#courses)
+[⚪ Courses and certifications](#courses-and-certifications)
 
 [⚪ Examples of my work](#examples-of-my-work)
 
@@ -200,7 +200,7 @@ If you would like to fill your knowledge about me you can also visit my profile 
 <b>[10.2016 - 09.2021 - Białystok University of Technology - Management and production engineering- engineering and master's degree studies] </b>
  </ul>
     
-## COURSES
+## COURSES AND CERTIFICATIONS
 
 <ul>
  <li> Udemy - Postman: The Complete Guide | REST API Testing - during the course </li>
