@@ -165,7 +165,7 @@ If you would like to fill your knowledge about me you can also visit my profile 
 ## EDUCATION
 
 <ul> 
-<b>[10. 2022 - present - Białystok University of Technology - Software Tester - postgraduate studies] </b>
+<b>[10. 2022 - 06.2023 - Białystok University of Technology - Software Tester - postgraduate studies] </b>
  <p></p>
  Study programme:
  <p></p>
@@ -262,5 +262,6 @@ Attending events:
  <li> QAwelin
  <li> Acai_tech night
  <li> Śljedzimy internety
+ <li> Meet.JS 
  </ul> 
  </ul> 
