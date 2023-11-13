@@ -1,5 +1,4 @@
 
-![ALEKSANDRA'S PORTFOLIO github cut](https://user-images.githubusercontent.com/117541170/236678923-4faeec0d-71d8-4208-a2e1-5914d2ccc34a.jpg)
 
 ## Contents: 
 [⚪ About me](#about-me)
