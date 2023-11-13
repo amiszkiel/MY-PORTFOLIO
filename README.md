@@ -1,4 +1,4 @@
-
+![ALEKSANDRA'S PORTFOLIO (2)](https://github.com/amiszkiel/MY-PORTFOLIO/assets/117541170/203b8ea4-4275-40c6-98db-d21ccdd5f8fd)
 
 ## Contents: 
 [⚪ About me](#about-me)
