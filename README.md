@@ -202,23 +202,14 @@ If you would like to fill your knowledge about me you can also visit my profile 
     
 ## COURSES AND CERTIFICATIONS
 
-<ul>
- <li> ISTQB Certified Tester Foundation Level (id: CTFL4-2025-23279-SJSI)
- <li> Udemy - ISTQB w pytaniach i odpowiedziach </li>
- </ul>
-  <li> https://www.udemy.com/certificate/UC-6777e1f9-b0b2-4086-99f1-c7cf95d52d83/
-  </ul>
- <li> Udemy - Chrome DevTools: Od podstaw do Eksperta </li>
- </ul>
-  <li> https://www.udemy.com/certificate/UC-a7217758-02ec-4b72-aa2e-53ae932ad7d8/?trk=public_profile_see-credential
- <li> Udemy - Basic SQL | MySQL </li> 
- </ul> 
-  <li> https://www.udemy.com/certificate/UC-03f1abf7-759f-4afa-8af2-03cedd7519b0/ </li>
- </ul>
-<li> Microsoft - Ms Office Excel Specialist
-<li> Internal Auditor of Integrated Quality Management System (ISO:9001:2015, ISO 14001:2015, ISO 45001:2018)
-<li> Statistic Quality Control AQL
-</ul>
+- **ISTQB Certified Tester Foundation Level** (ID: CTFL4-2025-23279-SJSI)
+- **Udemy** – [ISTQB w pytaniach i odpowiedziach](https://www.udemy.com/certificate/UC-6777e1f9-b0b2-4086-99f1-c7cf95d52d83/)
+- **Udemy** – [Chrome DevTools: Od podstaw do Eksperta](https://www.udemy.com/certificate/UC-a7217758-02ec-4b72-aa2e-53ae932ad7d8/?trk=public_profile_see-credential)
+- **Udemy** – [Basic SQL | MySQL](https://www.udemy.com/certificate/UC-03f1abf7-759f-4afa-8af2-03cedd7519b0/)
+- **Microsoft** – MS Office Excel Specialist
+- **Internal Auditor** of Integrated Quality Management System (ISO 9001:2015, ISO 14001:2015, ISO 45001:2018)
+- **Statistic Quality Control AQL**
+
 
 ## EXAMPLES OF MY WORK
 
