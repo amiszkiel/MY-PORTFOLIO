@@ -91,7 +91,7 @@ If you would like to fill your knowledge about me you can also visit my profile 
  </ul>
  
  <p></p>
-<li> Postman
+<li> Postman and SoapUi
  <ul>
   <li> requests (GET, POST, PATCH, DELETE)
   <li> query params
@@ -105,7 +105,7 @@ If you would like to fill your knowledge about me you can also visit my profile 
  </ul>
  
  <p></p>
-<li> SQL (POSTGRESQL, XAMPP)
+<li> SQL (POSTGRESQL, XAMPP, Oracle SQL Developer)
  <ul> 
   <li> SELECT instruction
   <li> WHERE clause
@@ -126,6 +126,7 @@ If you would like to fill your knowledge about me you can also visit my profile 
  <ul> 
  <li> ability to use the program to coding
  <li> knowledge of using its extensions
+ <li> using also for ThunderClient 
  </ul>
  
  <p></p>
@@ -202,9 +203,16 @@ If you would like to fill your knowledge about me you can also visit my profile 
 ## COURSES AND CERTIFICATIONS
 
 <ul>
- <li> Udemy - Postman: The Complete Guide | REST API Testing - during the course </li>
- <li> Udemy - Basic SQL | MySQL </li> 
+ <li> ISTQB Certified Tester Foundation Level (id: CTFL4-2025-23279-SJSI)
+ <li> Udemy - ISTQB w pytaniach i odpowiedziach
  <ul> 
+  <li> https://www.udemy.com/certificate/UC-6777e1f9-b0b2-4086-99f1-c7cf95d52d83/
+ </ul>
+ <li> Udemy - Chrome DevTools: Od podstaw do Eksperta </li>
+ <ul>
+  <li> https://www.udemy.com/certificate/UC-a7217758-02ec-4b72-aa2e-53ae932ad7d8/?trk=public_profile_see-credential
+ <li> Udemy - Basic SQL | MySQL </li> 
+ </ul> 
   <li> https://www.udemy.com/certificate/UC-03f1abf7-759f-4afa-8af2-03cedd7519b0/ </li>
  </ul>
 <li> Microsoft - Ms Office Excel Specialist
@@ -258,6 +266,7 @@ Facebook groups:
 
 Attending events: 
  <ul> 
+ <li> BiałQA
  <li> QAwelin
  <li> Acai_tech night
  <li> Śljedzimy internety
