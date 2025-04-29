@@ -204,12 +204,12 @@ If you would like to fill your knowledge about me you can also visit my profile 
 
 <ul>
  <li> ISTQB Certified Tester Foundation Level (id: CTFL4-2025-23279-SJSI)
- <li> Udemy - ISTQB w pytaniach i odpowiedziach
- <ul> 
-  <li> https://www.udemy.com/certificate/UC-6777e1f9-b0b2-4086-99f1-c7cf95d52d83/
+ <li> Udemy - ISTQB w pytaniach i odpowiedziach </li>
  </ul>
+  <li> https://www.udemy.com/certificate/UC-6777e1f9-b0b2-4086-99f1-c7cf95d52d83/
+  </ul>
  <li> Udemy - Chrome DevTools: Od podstaw do Eksperta </li>
- <ul>
+ </ul>
   <li> https://www.udemy.com/certificate/UC-a7217758-02ec-4b72-aa2e-53ae932ad7d8/?trk=public_profile_see-credential
  <li> Udemy - Basic SQL | MySQL </li> 
  </ul> 
