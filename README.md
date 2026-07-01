@@ -23,13 +23,16 @@
 
 <p>I'm Aleksandra and I'm passionate about quality assurance. </p>
 <p align="justify"> 
- Ever since I started my first engineering studies, I wanted to become a quality specialist. I managed to achieve it, but I have always been drawn to the IT industry ... that's why I started my adventure with testing. First I began my journey with webinars, newsletters, books, and then I studied Software Testing and started practicing testing. It is really fascinating for me how important is the quality! For not only in the manufactured products, but also the software. I got so into testing that in the future I would like to develop my skills in test automation.
+<p>
+My journey into Quality Assurance started with a strong interest in quality management during my engineering studies. Although I began my career in quality assurance outside the IT industry, my passion for technology led me to software testing. Since then, I have continuously expanded my knowledge through postgraduate studies, certifications, self-learning, and, most importantly, commercial experience.
 
- So... I am a junior software tester, who is always striving to improve my skills and abilities. My experience has made me an insightful person who pays attention to details. I am also a person who loves working with people. Etting common goals together with the team is very satisfying for me, and achieving them even more which makes me a communicative person. I quickly adapt to changes, in case of "fires" I put out them as soon as possible.
+Today, I am a <b>Manual Software Tester with over 2 years of commercial experience</b> in testing <b>web and mobile applications</b>. My work has strengthened my <b>analytical thinking, attention to detail, problem-solving skills, and teamwork</b>. I enjoy collaborating with developers, business analysts, and other testers to deliver high-quality software.
 
-I enjoy learning and expanding my knowledge, and find joy in doing so. I am excited to pursue new experiences and broaden my horizons, so I am keen on developing myself in test automation. Through my training, I am familiar with areas such as exploratory testing, testing websites and mobile applications, REST API testing, creating test cases and reports, and reporting defects. I'm still learning tools such as SQL, Postman, Cypress and programming language- JavaScript... and so on, becuase continuous improvement means continuous learning and self-development. So far I have also met Chrome DevTools, Jira, Confluence, GIT, and GitHub. 
+I have practical experience in <b>functional, regression, acceptance, exploratory, mobile, and REST API testing</b>. I regularly work with <b>SQL</b> to validate application data, create and execute <b>test cases and test scenarios</b>, report defects, and participate in software delivery within an <b>Agile/Scrum</b> environment. I am also experienced in onboarding new team members and sharing knowledge within the team.
 
-Gaining hands-on experience by applying my acquired knowledge to test an operational product would be a critical milestone in achieving my current career goal of becoming a regular software tester. This opportunity would bring me great joy and allow me to further develop my skills in the field.
+I work daily with <b>Postman</b>, <b>Swagger</b>, <b>SQL</b>, <b>Jira</b>, <b>X-Ray</b>, <b>Confluence</b>, <b>Chrome DevTools</b>, <b>SoapUI</b>, <b>Git</b>, and <b>GitHub</b>. I am <b>ISTQB CTFL certified</b> and continuously improve my technical skills.
+
+Although my main focus is manual testing, I am actively developing my knowledge of <b>test automation</b> to broaden my expertise and contribute even more effectively to software quality.
 </p>
 
 If you would like to fill your knowledge about me you can also visit my profile on LinkedIn: 
@@ -105,7 +108,7 @@ If you would like to fill your knowledge about me you can also visit my profile 
  </ul>
  
  <p></p>
-<li> SQL (POSTGRESQL, XAMPP, Oracle SQL Developer)
+<li> SQL (POSTGRESQL, DBeaver, Oracle SQL Developer)
  <ul> 
   <li> SELECT instruction
   <li> WHERE clause
@@ -144,13 +147,15 @@ If you would like to fill your knowledge about me you can also visit my profile 
 ## TECH SKILLS 
 
 <ul>
-<li> Creating test cases
-<li> Reporting bugs
-<li> Manual and automation testing
-<li> Accessibility testing
-<li> Mobile apps testing
-<li> Knowledge of Scrum and Agile methodology
-<li> Familiar with ISTQB
+<li> Manual testing of web and mobile applications
+<li> REST API testing (Postman, Swagger)
+<li> Functional, regression, acceptance and exploratory testing
+<li> Creating test cases and test scenarios
+<li> Bug reporting and test documentation
+<li> SQL queries and data validation
+<li> Jira & X-Ray
+<li> Agile / Scrum
+<li> Chrome DevTools
 </ul>
 
 ## SOFT SKILLS 
