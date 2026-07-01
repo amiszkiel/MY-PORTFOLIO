@@ -262,6 +262,7 @@ Facebook groups:
 
 Attending events: 
  <ul> 
+  <li>Test Warez
  <li> BiałQA
  <li> QAwelin
  <li> Acai_tech night
