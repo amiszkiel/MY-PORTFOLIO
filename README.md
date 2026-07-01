@@ -1,4 +1,5 @@
-![ALEKSANDRA'S PORTFOLIO]()
+![ALEKSANDRA'S PORTFOLIO]()<img width="2173" height="724" alt="Portfolio Ola" src="https://github.com/user-attachments/assets/9eeacd88-216e-491a-abd3-d4c42a5f930b" />
+
 
 ## Contents: 
 [⚪ About me](#about-me)
